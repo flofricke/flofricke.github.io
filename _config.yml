@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://sv-tyrol-abbensen.de/images/Wappen_Abbensen.jpg
+avatar: 
 
 # boolean type, the global switch for ToC in posts.
 toc: true
